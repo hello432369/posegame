@@ -1,7 +1,7 @@
 # posegame
 
-# posegame - ios项目 手机端控制
-# PoseBridge — mac项目 体感游戏桥接器
+ 1. posegame - ios项目 手机端控制
+ 2. PoseBridge — mac项目 体感游戏桥接器
 
 用 iPhone 摄像头识别身体姿势、手势和面部表情，通过局域网 UDP 发送到电脑，转换为键盘/鼠标操作，实现用身体控制任何游戏。
 
